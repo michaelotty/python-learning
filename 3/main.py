@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 class Test:
     def __init__(self):
         self._a = 1

@@ -1,3 +1,5 @@
+!#/usr/bin/python
+
 from random import random
 
 a = [0, 0, 0, 0, 0]
